@@ -18,7 +18,7 @@ class Developer(Employee):
 
 class TeamLead(Manager, Developer):
     def __init__(self, name, salary, department, programming_language, team_size):
-        Employee.__init__(self, name, salary)  # викликаємо вручну, щоб не було конфлікту MRO
+        Employee.__init__(self, name, salary)
         self.department = department
         self.programming_language = programming_language
         self.team_size = team_size
