@@ -1,0 +1,22 @@
+<groups>
+    <group>
+        <number>101</number>
+        <timingExbytes>
+            <incoming>1200</incoming>
+        </timingExbytes>
+    </group>
+
+    <group>
+        <number>155</number>
+        <timingExbytes>
+            <incoming>98765</incoming>
+        </timingExbytes>
+    </group>
+
+    <group>
+        <number>300</number>
+        <timingExbytes>
+            <incoming>4444</incoming>
+        </timingExbytes>
+    </group>
+</groups>

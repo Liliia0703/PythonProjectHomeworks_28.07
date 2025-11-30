@@ -1,0 +1,2 @@
+invalid1.json — invalid JSON: Illegal trailing comma before end of object: line 3 column 12 (char 32)
+invalid2.json — invalid JSON: Expecting property name enclosed in double quotes: line 2 column 3 (char 5)
